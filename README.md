@@ -1,5 +1,2 @@
 # test2
-this is a second repository
-rgregergergergsrfg
-retert
-chages done
+this is a master branch.
